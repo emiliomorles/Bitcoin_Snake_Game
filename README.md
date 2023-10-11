@@ -3,7 +3,7 @@
 
 The Snake videogame
   
-## ![Sample Image](https://github.com/emiliomorles/Snake_Game/blob/master/extra/example001.JPG)
+## ![Sample Image](https://github.com/emiliomorles/Snake_Game/blob/master/extra/example002(v.2).JPG)
 
 ## Developer: https://github.com/emiliomorles
 
@@ -22,4 +22,5 @@ The Snake videogame
     🟢  how to use Screen.tracer in Turtle Module ✔️
     🟢  Inheritance in a Class ✔️
     🟢  Slicing a List or a Tuple ✔️
+    🟢  how to store high_score in my local machine ✔️
     
