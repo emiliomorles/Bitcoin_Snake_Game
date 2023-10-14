@@ -6,7 +6,8 @@ class Food(Turtle):
 
     def __init__(self):
         super().__init__()
-        self.shape("circle")
+        self.screen.register_shape("bitcoin.gif")
+        self.shape("bitcoin.gif")
         self.penup()
         self.shapesize(stretch_len=1, stretch_wid=1)
         self.color("orange")

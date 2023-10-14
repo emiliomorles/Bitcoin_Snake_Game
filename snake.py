@@ -21,7 +21,8 @@ class Snake:
             self.add_snake_part(position)
 
     def add_snake_part(self, position):
-        new_snake_part = Turtle(shape="square")
+        new_snake_part = Turtle()
+        new_snake_part.shape("square")
         new_snake_part.color("green")
         new_snake_part.penup()
         new_snake_part.goto(position)

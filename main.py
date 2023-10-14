@@ -27,7 +27,7 @@ while game_is_on:
     time.sleep(0.1)
     snake.move()
 
-    if snake.head.distance(food) < 15:  # It detects collision with food
+    if snake.head.distance(food) < 20:  # It detects collision with food
         food.refresh()  # The food appears in another random place everytime the snake eats it.
         # snake.create_snake()
         scoreboard.increase_score()
