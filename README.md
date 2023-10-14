@@ -1,4 +1,4 @@
-# Bitcoin Snake_Game 👀
+# Bitcoin Snake Game 👀
   🟠🐍
 
 The Snake videogame
