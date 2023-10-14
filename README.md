@@ -23,4 +23,7 @@ The Snake videogame
     🟢  Inheritance in a Class ✔️
     🟢  Slicing a List or a Tuple ✔️
     🟢  how to store high_score in my local machine ✔️
+    🟢  how to change a turtle with a image.gif ✔️ 
+        self.screen.register_shape("bitcoin.gif")
+        self.shape("bitcoin.gif")
     
