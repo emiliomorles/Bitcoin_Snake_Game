@@ -3,7 +3,7 @@
 
 The Snake videogame
   
-## ![Sample Image](https://github.com/emiliomorles/Snake_Game/blob/master/extra/example002(v.2).JPG)
+## ![Sample Image](https://github.com/emiliomorles/Snake_Game/blob/master/extra/example003(v.3_bitcoin_Snake).JPG)
 
 ## Developer: https://github.com/emiliomorles
 
